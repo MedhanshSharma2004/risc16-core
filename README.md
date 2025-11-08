@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-**IITB-CPU** is a simple **16-bit RISC processor** designed and implemented in **VHDL** as part of the *Digital Systems Design Laboratory* at **IIT Bombay**. It supports a small yet expressive **instruction set architecture (ISA)** comprising 14 RIJ-type instructions and is capable of executing basic arithmetic, logical and control operations.
+**IITB-CPU** is a simple **16-bit RISC processor** designed and implemented in **VHDL**. It supports a small yet expressive **instruction set architecture (ISA)** comprising 14 RIJ-type instructions and is capable of executing basic arithmetic, logical and control operations.
 
 ---
 
